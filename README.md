@@ -20,7 +20,8 @@
 ### 9) позвонить по указанному в вакансии номеру:
 ![aJV1fIyxe0U](https://github.com/yantsabut/practicum-android-diploma/assets/118681580/9aea88fa-60bd-414a-88fc-694bc9c46216)
 ### 10) посмотреть данные о разработчиках приложения:
-    ![IC9opIwOfec](https://github.com/yantsabut/practicum-android-diploma/assets/118681580/f68413f2-7c56-4c98-9a8c-44f5f68c89d9)
+   ![IC9opIwOfec](https://github.com/yantsabut/practicum-android-diploma/assets/118681580/58873885-4ac1-453c-9060-2bd3597f4623)
+
 
     
  ## Для реализации функционала приложения был использован следующий стек технологий:
